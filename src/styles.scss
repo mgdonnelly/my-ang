@@ -1,0 +1,16 @@
+@import './app/app.theme';
+
+body {
+  margin: 0;
+  min-width: 360px;
+}
+
+table {
+  width: 100%;
+}
+
+.content-column {
+  padding: 20px;
+  margin: auto;
+  max-width: 960;
+}
